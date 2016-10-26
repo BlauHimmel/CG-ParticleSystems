@@ -1,0 +1,1 @@
+ParticleSystems.exe -input system9_05_circle_midpoint.txt -refresh 0.1  -dt 0.1  -integrator_color -draw_vectors 0.02

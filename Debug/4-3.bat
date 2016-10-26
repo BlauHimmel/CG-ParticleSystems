@@ -1,0 +1,1 @@
+ParticleSystems.exe -input system9_04_circle_euler.txt -refresh 0.01 -dt 0.01 -integrator_color -motion_blur

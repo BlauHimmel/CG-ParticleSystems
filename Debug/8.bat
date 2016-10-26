@@ -1,0 +1,1 @@
+ParticleSystems.exe -input system9_08_fire.txt -refresh 0.05 -dt 0.05  -motion_blur

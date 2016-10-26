@@ -1,0 +1,1 @@
+ParticleSystems.exe -input system9_09_wind.txt -motion_blur -dt 0.05 -refresh 0.05

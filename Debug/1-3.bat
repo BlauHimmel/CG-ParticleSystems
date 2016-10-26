@@ -1,0 +1,1 @@
+ParticleSystems.exe -input system9_01_hose.txt -refresh 0.1  -dt 0.1  -motion_blur

@@ -1,0 +1,1 @@
+ParticleSystems.exe -input system9_05_circle_midpoint.txt -refresh 0.05 -dt 0.05 -integrator_color -motion_blur

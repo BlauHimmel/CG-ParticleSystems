@@ -1,0 +1,1 @@
+ParticleSystems.exe -input system9_02_hose_gravity.txt -refresh 0.05 -dt 0.05 -motion_blur
